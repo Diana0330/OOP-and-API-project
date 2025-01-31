@@ -1,0 +1,154 @@
+[2025-01-29 14:43:07,500] INFO - Test
+[2025-01-29 14:43:52,225] INFO - Test
+[2025-01-29 14:46:13,470] INFO - Test
+[2025-01-29 14:46:13,471] DEBUG - Testing
+[2025-01-29 14:46:13,472] DEBUG - VK object was created
+[2025-01-29 14:46:13,472] DEBUG - Pictures are in a gotten from VK profile
+[2025-01-29 14:46:13,474] DEBUG - Starting new HTTPS connection (1): api.vk.com:443
+[2025-01-29 14:46:13,597] DEBUG - https://api.vk.com:443 "GET /method/photos.get?owner_id=326545138&album_id=profile&rev=0&extended=1&photo_sizes=1&count=5&access_token=vk1.a.9LwhHoM1u2sDvPtUZ0kxKwfyCFeGpRhHBl4oEBhn3y-hfy8RME_ontGLK424lg4ONYBda03P29_2JFWyg2c2o4SQRiyqEE9AXY0rHT7vuzgy0f6ebB5CQJBLd3SlTa_72gndqtqepmCGrkt9Y1il8bPCv-V8lsMshOHWO1P9jViMsoIK95FfxErWy2qLAEU0&v=5.199 HTTP/11" 200 1292
+[2025-01-31 09:41:36,777] INFO - Test
+[2025-01-31 09:41:36,779] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 09:42:08,220] INFO - Test
+[2025-01-31 09:42:08,221] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 09:43:12,179] INFO - Test
+[2025-01-31 09:43:12,180] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 10:22:57,860] INFO - Test
+[2025-01-31 10:22:57,863] INFO - 
+[2025-01-31 10:22:57,863] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 10:22:58,630] ERROR - YandexDisk delete_folder() error Final_paper
+[2025-01-31 10:22:59,318] ERROR - Status code is not equal 200
+[2025-01-31 10:22:59,318] INFO - Program did not end successfully
+[2025-01-31 10:23:37,318] INFO - Test
+[2025-01-31 10:23:37,319] INFO - 
+[2025-01-31 10:23:37,319] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 10:23:37,844] ERROR - YandexDisk delete_folder() error Final_paper
+[2025-01-31 10:23:41,191] INFO - Program did not end successfully
+[2025-01-31 10:23:57,018] INFO - Test
+[2025-01-31 10:23:57,019] INFO - 
+[2025-01-31 10:23:57,019] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 10:23:57,921] ERROR - YandexDisk delete_folder() error Final_paper
+[2025-01-31 10:24:04,469] INFO - Program did not end successfully
+[2025-01-31 10:24:24,046] INFO - Test
+[2025-01-31 10:24:24,046] INFO - 
+[2025-01-31 10:24:24,046] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 10:24:24,633] ERROR - YandexDisk delete_folder() error Final_paper
+[2025-01-31 10:24:28,044] INFO - Program did not end successfully
+[2025-01-31 10:27:37,397] INFO - Test
+[2025-01-31 10:27:37,398] INFO - 
+[2025-01-31 10:27:37,398] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 10:27:38,213] ERROR - YandexDisk delete_folder() error Final_paper
+[2025-01-31 10:27:41,309] INFO - Program did not end successfully
+[2025-01-31 10:28:19,034] INFO - Test
+[2025-01-31 10:28:19,048] INFO - 
+[2025-01-31 10:28:19,048] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 10:28:20,132] ERROR - YandexDisk delete_folder() error Final_paper
+[2025-01-31 10:28:24,682] INFO - Program did not end successfully
+[2025-01-31 10:30:12,997] INFO - Test
+[2025-01-31 10:30:12,997] INFO - 
+[2025-01-31 10:30:12,997] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 10:30:14,191] ERROR - YandexDisk delete_folder() error Final_paper
+[2025-01-31 10:30:15,071] ERROR - Status code is not equal 200
+[2025-01-31 10:30:15,071] INFO - Program did not end successfully
+[2025-01-31 10:31:08,192] INFO - Test
+[2025-01-31 10:31:08,193] INFO - 
+[2025-01-31 10:31:08,193] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 10:31:08,639] ERROR - YandexDisk delete_folder() error Final_paper
+[2025-01-31 10:31:09,225] ERROR - Status code is not equal 200
+[2025-01-31 10:31:09,225] INFO - Program did not end successfully
+[2025-01-31 10:32:57,290] INFO - Test
+[2025-01-31 10:32:57,291] INFO - 
+[2025-01-31 10:32:57,291] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 10:32:57,972] ERROR - YandexDisk delete_folder() error Final_paper
+[2025-01-31 10:32:58,804] ERROR - Status code is not equal 200
+[2025-01-31 10:32:58,804] INFO - Program did not end successfully
+[2025-01-31 10:33:08,799] INFO - Test
+[2025-01-31 10:33:08,799] INFO - 
+[2025-01-31 10:33:08,799] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 10:33:09,322] ERROR - YandexDisk delete_folder() error Final_paper
+[2025-01-31 10:33:14,187] INFO - Program ended successfully
+[2025-01-31 10:33:36,687] INFO - Test
+[2025-01-31 10:33:36,687] INFO - 
+[2025-01-31 10:33:36,687] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 10:33:37,626] ERROR - YandexDisk delete_folder() error Final_paper
+[2025-01-31 10:33:41,180] INFO - Program ended successfully
+[2025-01-31 10:33:55,585] INFO - Test
+[2025-01-31 10:33:55,586] INFO - 
+[2025-01-31 10:33:55,586] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 10:33:56,404] ERROR - YandexDisk delete_folder() error Final_paper
+[2025-01-31 10:34:00,544] INFO - Program ended successfully
+[2025-01-31 10:34:20,118] INFO - Test
+[2025-01-31 10:34:20,119] INFO - 
+[2025-01-31 10:34:20,119] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 10:34:20,508] ERROR - YandexDisk delete_folder() error Final_paper
+[2025-01-31 10:34:24,570] INFO - Program ended successfully
+[2025-01-31 10:38:17,908] INFO - Test
+[2025-01-31 10:38:17,909] INFO - 
+[2025-01-31 10:38:17,909] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 10:38:19,403] ERROR - YandexDisk delete_folder() error Final_paper
+[2025-01-31 10:38:22,645] INFO - Program ended successfully
+[2025-01-31 10:38:39,726] INFO - Test
+[2025-01-31 10:38:39,728] INFO - 
+[2025-01-31 10:38:39,728] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 10:38:43,774] INFO - Program ended successfully
+[2025-01-31 10:38:55,498] INFO - Test
+[2025-01-31 10:38:55,500] INFO - 
+[2025-01-31 10:38:55,500] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 10:38:57,085] ERROR - YandexDisk delete_folder() error Final_paper
+[2025-01-31 10:39:01,918] INFO - Program ended successfully
+[2025-01-31 12:15:11,081] INFO - Test
+[2025-01-31 12:15:11,083] INFO - 
+[2025-01-31 12:15:11,083] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 12:15:11,307] INFO - Folder is deleted
+[2025-01-31 12:15:13,165] INFO - Folder created
+[2025-01-31 12:15:13,165] INFO - Picture name kept the same
+[2025-01-31 12:15:13,599] INFO - Program did not end successfully
+[2025-01-31 12:29:31,456] INFO - Test
+[2025-01-31 12:29:31,457] INFO - 
+[2025-01-31 12:29:31,457] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 12:29:31,874] INFO - Folder is deleted
+[2025-01-31 12:29:33,954] INFO - YandexDisk delete_folder() success Final_paper
+[2025-01-31 12:29:34,332] INFO - Folder created
+[2025-01-31 12:29:34,332] INFO - Picture name kept the same
+[2025-01-31 12:29:34,967] ERROR - Status code is not equal 202
+[2025-01-31 12:29:34,968] INFO - Program did not end successfully
+[2025-01-31 12:29:52,711] INFO - Test
+[2025-01-31 12:29:52,711] INFO - 
+[2025-01-31 12:29:52,711] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 12:29:52,985] INFO - Folder is deleted
+[2025-01-31 12:29:54,332] INFO - Folder created
+[2025-01-31 12:29:54,333] INFO - Picture name kept the same
+[2025-01-31 12:29:54,842] INFO - Picture name kept the same
+[2025-01-31 12:29:55,384] INFO - Picture name kept the same
+[2025-01-31 12:29:55,876] INFO - Picture name kept the same
+[2025-01-31 12:29:56,358] INFO - Picture name kept the same
+[2025-01-31 12:29:56,781] INFO - Original name kept
+[2025-01-31 12:29:56,783] INFO - Original name kept
+[2025-01-31 12:29:56,783] INFO - Original name kept
+[2025-01-31 12:29:56,783] INFO - Original name kept
+[2025-01-31 12:29:56,783] INFO - Original name kept
+[2025-01-31 12:29:56,785] INFO - Program ended successfully
+[2025-01-31 12:30:16,651] INFO - Test
+[2025-01-31 12:30:16,651] INFO - 
+[2025-01-31 12:30:16,651] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 12:30:16,774] INFO - Folder is deleted
+[2025-01-31 12:30:18,856] INFO - YandexDisk delete_folder() success Final_paper
+[2025-01-31 12:30:19,342] INFO - Folder created
+[2025-01-31 12:30:19,342] INFO - Picture name kept the same
+[2025-01-31 12:30:19,673] ERROR - Status code is not equal 202
+[2025-01-31 12:30:19,674] INFO - Program did not end successfully
+[2025-01-31 12:30:27,664] INFO - Test
+[2025-01-31 12:30:27,665] INFO - 
+[2025-01-31 12:30:27,665] INFO - Pictures are in a gotten from VK profile
+[2025-01-31 12:30:27,844] INFO - Folder is deleted
+[2025-01-31 12:30:29,294] INFO - Folder created
+[2025-01-31 12:30:29,295] INFO - Picture name kept the same
+[2025-01-31 12:30:29,874] INFO - Picture name kept the same
+[2025-01-31 12:30:30,679] INFO - Picture name kept the same
+[2025-01-31 12:30:31,201] INFO - Picture name kept the same
+[2025-01-31 12:30:31,773] INFO - Picture name kept the same
+[2025-01-31 12:30:32,141] INFO - Original name kept
+[2025-01-31 12:30:32,141] INFO - Original name kept
+[2025-01-31 12:30:32,141] INFO - Original name kept
+[2025-01-31 12:30:32,141] INFO - Original name kept
+[2025-01-31 12:30:32,141] INFO - Original name kept
+[2025-01-31 12:30:32,142] INFO - Program ended successfully
